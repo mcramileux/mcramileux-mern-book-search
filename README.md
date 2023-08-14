@@ -3,17 +3,17 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Description ---to edit
+## Description
+A MERN application using Google Books API implementing GraphQL with Apollo Server, users can search for, save, and manage their favorite books. The platform integrates user authentication through JSON Web Tokens, ensuring secure logins and personalized local storage on the React frontend.
 
 
 ## Table of Contents
 - [McRamileux's MERN Book Search](#mcramileuxs-mern-book-search)
   - [21st Challenge: MERN - Book Search Engine](#21st-challenge-mern---book-search-engine)
-  - [Description ---to edit](#description----to-edit)
+  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Technologies Used](#technologies-used)
-  - [Installation](#installation)
-  - [Usage---to edit](#usage---to-edit)
+  - [Installation and Usage](#installation-and-usage)
   - [Screenshots---to edit](#screenshots---to-edit)
   - [Links](#links)
   - [Contributions](#contributions)
@@ -34,7 +34,7 @@
 - Web Vitals
 - GraphQL
 
-## Installation
+## Installation and Usage
 - Navigate to this [repository](https://github.com/mcramileux/mcramileux-mern-book-search)
 - Open your terminal on your local machine and clone the repository.
 - Create a react portfolio. By this challenge, it was pulled from the Gitlab repository as the codes has been provided.
@@ -55,19 +55,10 @@
   npm run develop
   ```
 
-## Usage---to edit
-- For folder structure overview: Inside the newly created my-portfolio folder, you will find various files and folders. The main ones you'll be working with are:
-  ```md
-  - src: This is where your React code lives.
-  - public: This folder contains the public files like the index.html.
-  ```
-- Edit the index.html:
-  ```md
-  Open the public/index.html file and customize the <title> and other metadata according to your portfolio's name and description.
-  ```
-
 ## Screenshots---to edit
 - Search Books
+    ![search-books](https://github.com/mcramileux/mcramileux-mern-book-search/assets/122607160/998c0633-6922-47c8-a629-83a6d76bdd64)
+
 
 - Saved Books
      ![saved-books](https://github.com/mcramileux/mcramileux-mern-book-search/assets/122607160/44064536-b19e-4a98-8094-3f81a122bc01)
