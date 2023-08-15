@@ -14,7 +14,7 @@ A MERN application using Google Books API implementing GraphQL with Apollo Serve
   - [Table of Contents](#table-of-contents)
   - [Technologies Used](#technologies-used)
   - [Installation and Usage](#installation-and-usage)
-  - [Screenshots---to edit](#screenshots---to-edit)
+  - [Screenshots](#screenshots)
   - [Links](#links)
   - [Contributions](#contributions)
   - [License](#license)
@@ -55,7 +55,11 @@ A MERN application using Google Books API implementing GraphQL with Apollo Serve
   npm run develop
   ```
 
-## Screenshots---to edit
+## Screenshots
+- Homepage
+  ![Screenshot 2023-08-15 at 17 40 43](https://github.com/mcramileux/mcramileux-mern-book-search/assets/122607160/bfaf87c2-7e34-4111-84d7-5ed4f9b2446f)
+
+
 - Search Books
     ![search-books](https://github.com/mcramileux/mcramileux-mern-book-search/assets/122607160/998c0633-6922-47c8-a629-83a6d76bdd64)
 
