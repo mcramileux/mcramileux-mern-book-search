@@ -67,7 +67,7 @@ A MERN application using Google Books API implementing GraphQL with Apollo Serve
 
 ## Links
 - Github Repository: https://github.com/mcramileux/mcramileux-mern-book-search
-- Heroku Deployment: ---TO EDIT
+- Heroku Deployment: https://salty-sea-90207-15372d225765.herokuapp.com
 
 ## Contributions
 * Contributions to this project won't be accepted as this is the reflection of the author's work hence the following questions and answers. Furthermore, forking or creating a pull request is acceptable.
