@@ -81,6 +81,7 @@ This project is under [MIT](https://choosealicense.com/licenses/mit/) license.
 ## Reference
 - Code has been given via Gitlab
 - MERN Class Activities 
+- [Deploy with Heroku and MongoDB Atlas](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas)
   
 ## Acknowledgements and Credits
 - Jacob Carver - weekly boot camp tutor
